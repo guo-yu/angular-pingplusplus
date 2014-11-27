@@ -1,0 +1,29 @@
+{
+  "name": "angular-pingplusplus",
+  "version": "0.1.0",
+  "description": "angular version of pingplusplus SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turingou/angular-pingplusplus.git"
+  },
+  "keywords": [
+    "pingplusplus",
+    "pingpp",
+    "alipay",
+    "unionpay",
+    "wechatpay",
+    "weixinpay",
+    "weixin",
+    "wechat"
+  ],
+  "author": "turing <o.u.turing@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turingou/angular-pingplusplus/issues"
+  },
+  "homepage": "https://github.com/turingou/angular-pingplusplus"
+}
